@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757792314686",
+    "project_id": "glyphpassdev",
+    "storage_bucket": "glyphpassdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757792314686:android:12b01f4b99540992b4086f",
+        "android_client_info": {
+          "package_name": "com.glyphpass.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByVgEOIcwgUiThDx-u_A7YGK3RTuqffIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
